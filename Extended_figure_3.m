@@ -1,6 +1,6 @@
-% Program to generate the  Extended Data Fig. 3 (using Eq. 7 & 14) of paper " D.D. Schultz-Ela, M.P.A.
+% Program to generate the  Extended Data Fig. 3 of Thakur et al. 2023 (submitted) (using Eq. 7 & 14) of paper " D.D. Schultz-Ela, M.P.A.
 %   Jackson, B.C. Vendeville,Mechanics of active salt diapirism,Tectonophysics,
-%   Volume 228, Issues 3–4,1993,Pages 275-312,ISSN 0040-1951,
+%   Volume 228, Issues 3â€“4,1993,Pages 275-312,ISSN 0040-1951,
 %   https://doi.org/10.1016/0040-1951(93)90345-K."
 
 %%
